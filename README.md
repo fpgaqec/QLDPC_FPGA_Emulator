@@ -1,7 +1,7 @@
 # QLDPC FPGA Emulator
 Implementation example of the hardware emulator described in the paper “Diversity Methods for Improving Convergence and Accuracy of Quantum Error Correction Decoders Through Hardware Emulation” (https://arxiv.org/pdf/2504.01164) for the T2 code and code capacity model.
 
-![Emulator Architecture](https://github.com/fragarh2/QLDPC_FPGA_Emulator/blob/main/EmulatorArchitecture.png)
+![Emulator Architecture](https://github.com/fragarh2/QLDPC_FPGA_Emulator/blob/main/EmulatorArchitecture_v2.png)
 
 ## Attribution
 
